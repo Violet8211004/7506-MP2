@@ -1,0 +1,9 @@
+{
+  "method": "blend_mlp",
+  "mlp_alpha": 0.25,
+  "rank_alpha": 0.45,
+  "feature_mode": "full",
+  "normalize": "within_question_z twice: first ranker with linear, then that mix with the MLP",
+  "mlp_epochs": 6,
+  "selected_on": "validation sweep; alpha 0.25 and 0.30 tied at 741/798 and 298/355; smaller MLP weight kept"
+}

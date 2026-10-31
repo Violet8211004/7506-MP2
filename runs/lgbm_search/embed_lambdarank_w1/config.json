@@ -1,0 +1,7 @@
+{
+  "feature_mode": "embed",
+  "objective": "lambdarank",
+  "mixed_weight": 1.0,
+  "rounds": 44,
+  "pca_dim": 64
+}

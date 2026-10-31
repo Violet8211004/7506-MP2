@@ -1,0 +1,7 @@
+{
+  "feature_mode": "full",
+  "objective": "binary",
+  "mixed_weight": 1.0,
+  "rounds": 45,
+  "pca_dim": 64
+}

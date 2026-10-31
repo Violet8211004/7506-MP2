@@ -1,0 +1,9 @@
+{
+  "method": "pairwise",
+  "data": "mixed",
+  "center": false,
+  "steps": 12,
+  "learning_rate": 0.2,
+  "l2": 0.1,
+  "selected_on": "train-dev disagreement accuracy, seed 0"
+}

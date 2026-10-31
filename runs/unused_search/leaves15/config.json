@@ -1,0 +1,12 @@
+{
+  "feature_mode": "full",
+  "objective": "lambdarank",
+  "mixed_weight": 1.0,
+  "rounds": 147,
+  "pca_dim": 64,
+  "residual_dim": 0,
+  "trees": {
+    "num_leaves": 15
+  },
+  "dev_hard_acc": 0.7961165308952332
+}

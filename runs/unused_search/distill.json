@@ -1,0 +1,123 @@
+{
+  "epochs": 15,
+  "history": [
+    {
+      "epoch": 1,
+      "dev_hard": 162,
+      "dev_n": 206
+    },
+    {
+      "epoch": 2,
+      "dev_hard": 166,
+      "dev_n": 206
+    },
+    {
+      "epoch": 3,
+      "dev_hard": 163,
+      "dev_n": 206
+    },
+    {
+      "epoch": 4,
+      "dev_hard": 164,
+      "dev_n": 206
+    },
+    {
+      "epoch": 5,
+      "dev_hard": 161,
+      "dev_n": 206
+    },
+    {
+      "epoch": 6,
+      "dev_hard": 163,
+      "dev_n": 206
+    },
+    {
+      "epoch": 7,
+      "dev_hard": 167,
+      "dev_n": 206
+    },
+    {
+      "epoch": 8,
+      "dev_hard": 165,
+      "dev_n": 206
+    },
+    {
+      "epoch": 9,
+      "dev_hard": 168,
+      "dev_n": 206
+    },
+    {
+      "epoch": 10,
+      "dev_hard": 170,
+      "dev_n": 206
+    },
+    {
+      "epoch": 11,
+      "dev_hard": 168,
+      "dev_n": 206
+    },
+    {
+      "epoch": 12,
+      "dev_hard": 167,
+      "dev_n": 206
+    },
+    {
+      "epoch": 13,
+      "dev_hard": 167,
+      "dev_n": 206
+    },
+    {
+      "epoch": 14,
+      "dev_hard": 166,
+      "dev_n": 206
+    },
+    {
+      "epoch": 15,
+      "dev_hard": 171,
+      "dev_n": 206
+    },
+    {
+      "epoch": 16,
+      "dev_hard": 169,
+      "dev_n": 206
+    },
+    {
+      "epoch": 17,
+      "dev_hard": 170,
+      "dev_n": 206
+    },
+    {
+      "epoch": 18,
+      "dev_hard": 169,
+      "dev_n": 206
+    },
+    {
+      "epoch": 19,
+      "dev_hard": 169,
+      "dev_n": 206
+    },
+    {
+      "epoch": 20,
+      "dev_hard": 166,
+      "dev_n": 206
+    },
+    {
+      "epoch": 21,
+      "dev_hard": 166,
+      "dev_n": 206
+    },
+    {
+      "epoch": 22,
+      "dev_hard": 167,
+      "dev_n": 206
+    },
+    {
+      "epoch": 23,
+      "dev_hard": 165,
+      "dev_n": 206
+    }
+  ],
+  "all_ok": 733,
+  "hard_ok": 290,
+  "adopt": false
+}

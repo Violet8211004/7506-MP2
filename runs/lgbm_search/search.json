@@ -1,0 +1,47 @@
+[
+  {
+    "feature_mode": "vote_text",
+    "objective": "lambdarank",
+    "mixed_weight": 1.0,
+    "rounds": 14,
+    "pca_dim": 64,
+    "name": "vote_text_lambdarank_w1",
+    "bytes": 45167
+  },
+  {
+    "feature_mode": "embed",
+    "objective": "lambdarank",
+    "mixed_weight": 1.0,
+    "rounds": 44,
+    "pca_dim": 64,
+    "name": "embed_lambdarank_w1",
+    "bytes": 144484
+  },
+  {
+    "feature_mode": "full",
+    "objective": "lambdarank",
+    "mixed_weight": 1.0,
+    "rounds": 154,
+    "pca_dim": 64,
+    "name": "full_lambdarank_w1",
+    "bytes": 441825
+  },
+  {
+    "feature_mode": "full",
+    "objective": "lambdarank",
+    "mixed_weight": 4.0,
+    "rounds": 88,
+    "pca_dim": 64,
+    "name": "full_lambdarank_w4",
+    "bytes": 268872
+  },
+  {
+    "feature_mode": "full",
+    "objective": "binary",
+    "mixed_weight": 1.0,
+    "rounds": 45,
+    "pca_dim": 64,
+    "name": "full_binary_w1",
+    "bytes": 147044
+  }
+]
