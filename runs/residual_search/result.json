@@ -1,0 +1,128 @@
+{
+  "dev_hard": 162,
+  "residual_weight": 4.0,
+  "rounds": 57,
+  "val_ranker": [
+    732,
+    289
+  ],
+  "overlap": {
+    "both": 275,
+    "only_new": 14,
+    "only_old": 23,
+    "neither": 43
+  },
+  "sweep": [
+    {
+      "alpha": 0.0,
+      "all_ok": 741,
+      "hard_ok": 298
+    },
+    {
+      "alpha": 0.05,
+      "all_ok": 740,
+      "hard_ok": 297
+    },
+    {
+      "alpha": 0.1,
+      "all_ok": 740,
+      "hard_ok": 297
+    },
+    {
+      "alpha": 0.15000000000000002,
+      "all_ok": 739,
+      "hard_ok": 296
+    },
+    {
+      "alpha": 0.2,
+      "all_ok": 738,
+      "hard_ok": 295
+    },
+    {
+      "alpha": 0.25,
+      "all_ok": 737,
+      "hard_ok": 294
+    },
+    {
+      "alpha": 0.30000000000000004,
+      "all_ok": 736,
+      "hard_ok": 293
+    },
+    {
+      "alpha": 0.35000000000000003,
+      "all_ok": 736,
+      "hard_ok": 293
+    },
+    {
+      "alpha": 0.4,
+      "all_ok": 734,
+      "hard_ok": 291
+    },
+    {
+      "alpha": 0.45,
+      "all_ok": 734,
+      "hard_ok": 291
+    },
+    {
+      "alpha": 0.5,
+      "all_ok": 732,
+      "hard_ok": 289
+    },
+    {
+      "alpha": 0.55,
+      "all_ok": 733,
+      "hard_ok": 290
+    },
+    {
+      "alpha": 0.6000000000000001,
+      "all_ok": 732,
+      "hard_ok": 289
+    },
+    {
+      "alpha": 0.65,
+      "all_ok": 731,
+      "hard_ok": 288
+    },
+    {
+      "alpha": 0.7000000000000001,
+      "all_ok": 729,
+      "hard_ok": 286
+    },
+    {
+      "alpha": 0.75,
+      "all_ok": 731,
+      "hard_ok": 288
+    },
+    {
+      "alpha": 0.8,
+      "all_ok": 731,
+      "hard_ok": 288
+    },
+    {
+      "alpha": 0.8500000000000001,
+      "all_ok": 731,
+      "hard_ok": 288
+    },
+    {
+      "alpha": 0.9,
+      "all_ok": 732,
+      "hard_ok": 289
+    },
+    {
+      "alpha": 0.9500000000000001,
+      "all_ok": 733,
+      "hard_ok": 290
+    },
+    {
+      "alpha": 1.0,
+      "all_ok": 732,
+      "hard_ok": 289
+    }
+  ],
+  "adopt": false,
+  "picked": {
+    "alpha": 0.0,
+    "all_ok": 741,
+    "hard_ok": 298
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "feature_mode": "vote_text",
+  "objective": "lambdarank",
+  "mixed_weight": 1.0,
+  "rounds": 14,
+  "pca_dim": 64
+}

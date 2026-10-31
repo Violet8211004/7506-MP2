@@ -1,0 +1,7 @@
+{
+  "feature_mode": "full",
+  "objective": "lambdarank",
+  "mixed_weight": 4.0,
+  "rounds": 88,
+  "pca_dim": 64
+}

@@ -1,0 +1,11 @@
+{
+  "method": "pointwise_l2_logistic",
+  "steps": 80,
+  "learning_rate": 0.2,
+  "l2": 0.01,
+  "l2_on": "weight only; loss term is (l2/2) * ||weight||^2",
+  "init": "zeros",
+  "standardize": "training-set mean and population standard deviation",
+  "unparsed": "trained with label 0; excluded from the argmax at inference",
+  "tie_break": "smallest candidate index"
+}

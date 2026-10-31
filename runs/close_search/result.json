@@ -1,0 +1,151 @@
+{
+  "dev_blend": [
+    187,
+    206
+  ],
+  "grid": [
+    {
+      "l2": 0.01,
+      "alone_ok": 165,
+      "alone_n": 206,
+      "step": 40
+    },
+    {
+      "l2": 0.1,
+      "alone_ok": 164,
+      "alone_n": 206,
+      "step": 8
+    },
+    {
+      "l2": 1.0,
+      "alone_ok": 153,
+      "alone_n": 206,
+      "step": 15
+    }
+  ],
+  "chosen_step": 40,
+  "chosen_l2": 0.01,
+  "vote_coef": 0.5729246072154814,
+  "match_coef": 0.37654264886305067,
+  "val_alone": [
+    727,
+    284
+  ],
+  "val_blend": [
+    741,
+    298
+  ],
+  "sweep": [
+    {
+      "alpha": 0.0,
+      "all_ok": 741,
+      "hard_ok": 298
+    },
+    {
+      "alpha": 0.05,
+      "all_ok": 739,
+      "hard_ok": 296
+    },
+    {
+      "alpha": 0.1,
+      "all_ok": 740,
+      "hard_ok": 297
+    },
+    {
+      "alpha": 0.15000000000000002,
+      "all_ok": 739,
+      "hard_ok": 296
+    },
+    {
+      "alpha": 0.2,
+      "all_ok": 736,
+      "hard_ok": 293
+    },
+    {
+      "alpha": 0.25,
+      "all_ok": 736,
+      "hard_ok": 293
+    },
+    {
+      "alpha": 0.30000000000000004,
+      "all_ok": 735,
+      "hard_ok": 292
+    },
+    {
+      "alpha": 0.35000000000000003,
+      "all_ok": 731,
+      "hard_ok": 288
+    },
+    {
+      "alpha": 0.4,
+      "all_ok": 731,
+      "hard_ok": 288
+    },
+    {
+      "alpha": 0.45,
+      "all_ok": 731,
+      "hard_ok": 288
+    },
+    {
+      "alpha": 0.5,
+      "all_ok": 729,
+      "hard_ok": 286
+    },
+    {
+      "alpha": 0.55,
+      "all_ok": 729,
+      "hard_ok": 286
+    },
+    {
+      "alpha": 0.6000000000000001,
+      "all_ok": 727,
+      "hard_ok": 284
+    },
+    {
+      "alpha": 0.65,
+      "all_ok": 726,
+      "hard_ok": 283
+    },
+    {
+      "alpha": 0.7000000000000001,
+      "all_ok": 726,
+      "hard_ok": 283
+    },
+    {
+      "alpha": 0.75,
+      "all_ok": 727,
+      "hard_ok": 284
+    },
+    {
+      "alpha": 0.8,
+      "all_ok": 727,
+      "hard_ok": 284
+    },
+    {
+      "alpha": 0.8500000000000001,
+      "all_ok": 727,
+      "hard_ok": 284
+    },
+    {
+      "alpha": 0.9,
+      "all_ok": 726,
+      "hard_ok": 283
+    },
+    {
+      "alpha": 0.9500000000000001,
+      "all_ok": 726,
+      "hard_ok": 283
+    },
+    {
+      "alpha": 1.0,
+      "all_ok": 727,
+      "hard_ok": 284
+    }
+  ],
+  "adopt": false,
+  "picked": {
+    "alpha": 0.0,
+    "all_ok": 741,
+    "hard_ok": 298
+  }
+}

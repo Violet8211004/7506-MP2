@@ -1,0 +1,10 @@
+{
+  "method": "mlp",
+  "epochs": 6,
+  "hidden": 128,
+  "dropout": 0.1,
+  "learning_rate": 0.01,
+  "l2": 0.0001,
+  "seed": 42,
+  "loss": "listwise"
+}

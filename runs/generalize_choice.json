@@ -1,0 +1,14 @@
+{
+  "baseline_dev_ok": 154,
+  "baseline_dev_n": 206,
+  "baseline_dev_pp": 74.75728155339806,
+  "adopt_dev": true,
+  "data": "mixed",
+  "kind": "pairwise",
+  "center": false,
+  "l2": 0.1,
+  "step": 12,
+  "dev_ok": 170,
+  "dev_n": 206,
+  "dev_pp": 82.52427184466019
+}

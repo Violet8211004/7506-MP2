@@ -1,0 +1,64 @@
+{
+  "bar_hard": 302,
+  "bar_all": 745,
+  "current_nested": [
+    741,
+    298
+  ],
+  "direct_z": [
+    301,
+    744,
+    0.4,
+    0.2,
+    0.39999999999999997
+  ],
+  "lgbm_mlp": [
+    294,
+    737,
+    0.45
+  ],
+  "softmax_z": [
+    300,
+    743,
+    2.0,
+    0.4,
+    0.30000000000000004,
+    0.29999999999999993
+  ],
+  "softmax_raw": [
+    300,
+    743,
+    0.5,
+    0.5,
+    1.0,
+    0.5,
+    0.30000000000000004,
+    0.19999999999999996
+  ],
+  "cleared": [
+    {
+      "name": "direct_z",
+      "adopt": false,
+      "hard_ok": 301,
+      "all_ok": 744
+    },
+    {
+      "name": "lgbm_mlp",
+      "adopt": false,
+      "hard_ok": 294,
+      "all_ok": 737
+    },
+    {
+      "name": "softmax_z",
+      "adopt": false,
+      "hard_ok": 300,
+      "all_ok": 743
+    },
+    {
+      "name": "softmax_raw",
+      "adopt": false,
+      "hard_ok": 300,
+      "all_ok": 743
+    }
+  ]
+}

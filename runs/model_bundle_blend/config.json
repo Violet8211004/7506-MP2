@@ -1,0 +1,9 @@
+{
+  "method": "blend",
+  "alpha": 0.45,
+  "feature_mode": "full",
+  "normalize": "within_question_z",
+  "ranker": "full_lambdarank_w1",
+  "linear": "pairwise_mixed_l2_0.1_step_12",
+  "selected_on": "validation blend sweep; alpha 0.35, 0.45 and 0.50 tied at 732/798 and 289/355; median kept"
+}

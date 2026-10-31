@@ -1,0 +1,12 @@
+data,kind,center,l2,step,dev_ok,dev_n,dev_pp,low_ok,low_n
+all,pointwise,False,0.01,158,157,206,76.2135922330097,88,118
+all,pointwise,False,0.1,62,153,206,74.27184466019418,85,118
+all,pointwise,False,1.0,5,141,206,68.44660194174757,74,118
+mixed,pointwise,False,0.01,14,162,206,78.64077669902913,89,118
+mixed,pointwise,False,0.1,64,162,206,78.64077669902913,90,118
+mixed,pointwise,False,1.0,7,144,206,69.90291262135922,79,118
+mixed_center,pointwise,True,0.01,99,147,206,71.35922330097087,79,118
+mixed_center,pointwise,True,0.1,1,142,206,68.93203883495146,77,118
+mixed_center,pointwise,True,1.0,1,142,206,68.93203883495146,77,118
+mixed,pairwise,False,0.01,12,170,206,82.52427184466019,96,118
+mixed,pairwise,False,0.1,12,170,206,82.52427184466019,96,118
